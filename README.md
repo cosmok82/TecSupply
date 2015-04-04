@@ -10,6 +10,7 @@ TecSupply
 Author: Cosimo Orlando.<br>
 Blog: http://creativityslashdesign.tk/
 <br>
+<br>
 TecSupply, a 5$ OTG-Charging cable for Teclast tablets.
 <br>
 All info on my blog.
